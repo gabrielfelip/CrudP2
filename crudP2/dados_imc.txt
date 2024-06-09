@@ -1,0 +1,9 @@
+Data: 06/06/2024 19:59:28 | CPF: 44669808884 | Nome: gabriel silva | IMC: 21,68 | Resultado: Peso normal
+Data: 06/06/2024 20:04:48 | CPF: 44669808884 | Nome: gabriel silva | IMC: 24,69 | Resultado: Peso normal
+Data: 06/06/2024 - 20:12:44 | CPF: 44669808884 | Nome: gabriel silva | IMC: 24,75 | Resultado: Peso normal
+Data: 06/06/2024  20:42:26 | CPF: 44669808884 | Nome: gabriel silva | IMC: 24,69 | Resultado: Peso normal
+Data: 06/06/2024  20:52:53 | CPF: 44669808884 | Nome: gabriel silva | IMC: 38,10 | Resultado: Obesidade grau II
+Data: 06/06/2024  20:55:27 | CPF: 44669808884 | Nome: gabriel silva | IMC: 38,10 | Resultado: Obesidade grau II
+Data: 06/06/2024  20:57:53 | CPF: 44669808884 | Nome: gabriel silva | IMC: 28,40 | Resultado: Sobrepeso
+Data: 06/06/2024  21:02:28 | CPF: 44669808884 | Nome: gabriel silva | IMC: 24,41 | Resultado: Peso normal
+Data: 09/06/2024  19:54:52 | CPF: 12345678912 | Nome: Gabriel | IMC: 22,16 | Resultado: Peso normal
